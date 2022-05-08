@@ -1,0 +1,26 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+#galeri{
+    background-color: #e2edff;
+}
+section{
+    padding-top: 5rem;
+}
+.textjudul{
+    font-family: "poppins",sans-serif;
+    color: blue;
+    font-weight: 700;
+}
+.textfrom1{
+    font-family: "poppins",sans-serif;
+    font-size: 16px;
+}
+.textfrom2{
+    font-family: "poppins",sans-serif;
+    font-size: 14px;
+}
+.textfrom3{
+    font-family: "poppins",sans-serif;
+}
